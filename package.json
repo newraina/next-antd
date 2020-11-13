@@ -1,0 +1,12 @@
+{
+  "name": "next-antd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/newraina/next-antd.git",
+  "author": "newraina <newraina@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next-plugin-antd-less": "^0.0.6",
+    "next-transpile-modules": "^4.1.0"
+  }
+}
